@@ -50,3 +50,27 @@ To get started with either app, simply clone the repository and run the app usin
 
 ### Preview 
 ![](https://github.com/thanmaisai-asc/Gen-AI/blob/main/prj2/Screenshot%202024-07-25%20184132.png)
+
+
+## App 3: System instructions for movie recomendation
+
+### Overview
+
+Set of system instructions which can be used to create your own GPT for movie recomendation. 
+
+
+## App 4: Transaction Tracking and Management
+
+### Overview
+
+A react app which is used to track all tranctions, you can over look at the expences and even the savings and investments
+
+### Dependencies
+- React.js
+- MongoDb
+- Node.js
+- Express
+
+### Preview 
+
+![](https://github.com/thanmaisai-asc/Gen-AI/blob/main/prj4/img4.png)
